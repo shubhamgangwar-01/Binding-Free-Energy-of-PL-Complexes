@@ -1,1 +1,1 @@
-# Binding-Free-Energy-of-PL-Complexes
+# Prediction of Binding Free Enegry of Protein-Ligand Enegry using MM/GBSA and Machine Learning Model
